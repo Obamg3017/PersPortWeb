@@ -3,6 +3,7 @@ import Layout from "./components/Layout";
 import About from "./routes/About";
 import Home from "./routes/Home";
 import Portfolio from "./routes/Portfolio";
+import SinglePortProject from "./routes/SinglePortProject";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/portfolio/:id" element={<SinglePortProject />} />
         </Route>
       </Routes>
     </Router>
