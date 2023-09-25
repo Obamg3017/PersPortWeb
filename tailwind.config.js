@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Frutiger", "sans"], // Use 'sans' for the default sans-serif font
+        sans: ["Frutiger", "sans"], // Use 'Sans' for the default sans-serif font
       },
       colors: {
         // primary: "#58111A",
