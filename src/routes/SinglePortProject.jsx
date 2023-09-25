@@ -16,7 +16,7 @@ const SinglePortProject = () => {
   console.log(filteredItem);
   return (
     <div className="p-4 flex flex-col md:flex-row items-center justify-center">
-      <div className="text-white p-4 flex-1">
+      <div className="text-[#fcebd6] p-4 flex-1">
         <h2 className="text-2xl sm:text-5xl font-bold">
           {filteredItem?.title}
         </h2>
@@ -44,7 +44,7 @@ const SinglePortProject = () => {
         {filteredItem?.Images?.map((singleImage, i) => (
           <img
             key={i}
-            className="w-full h-32 sm:h-80 object-cover"
+            className="w-full rounded-sm h-32 sm:h-80 object-cover"
             src={singleImage}
             alt={singleImage}
           />

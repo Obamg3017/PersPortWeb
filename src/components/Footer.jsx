@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { HiDocumentText } from "react-icons/hi";
 const Footer = () => {
   return (
-    <div className=" text-white py-3 flex justify-center items-center">
+    <div className=" text-[#fcebd6] py-3 flex justify-center items-center">
       <div className="flex flex-col justify-center items-center">
         <div className="text-md sm:text-3xl sm:font-bold">
           Olorunfemi Bamgbose

@@ -5,12 +5,12 @@ import Header from "./Header";
 
 const Layout = () => {
   return (
-    <div className=" min-h-screen bg-primary flex flex-col">
+    <div className="min-h-screen bg-primary flex flex-col">
       <Header />
       <main className="w-full">
         <Outlet />
       </main>
-      <div className=" mt-auto">
+      <div className="mt-auto">
         <Footer />
       </div>
     </div>
