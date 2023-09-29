@@ -26,15 +26,15 @@ const SinglePortProject = () => {
         </div>
         <div className="my-5">
           <h3 className="text-xl sm:text-3xl font-bold my-4 ">Overview:</h3>
-          <p className="text-lg sm:text-xl ">{filteredItem?.detailDesc}</p>
+          <p className="text-lg sm:text-xl italic ">{filteredItem?.detailDesc}</p>
         </div>{" "}
         <div>
-          <h3 className="text-xl sm:text-3xl font-bold my-4 ">Link</h3>
+          <h3 className="text-xl sm:text-3xl font-bold my-4 ">Link:</h3>
           <a
             href={filteredItem?.RouteLink?.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-lg sm:text-xl "
+            className="text-lg sm:text-2xl text-yellow-600 "
           >
             {filteredItem?.RouteLink?.name}
           </a>

@@ -5,42 +5,52 @@ const PortfolioData = [
   {
     id: 1,
     title: "Synergy Connect",
-    role: "Example",
-    shortDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    role: "Fullstack Developer",
+    shortDesc: "Centralized collaborative website.",
     detailDesc:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     RouteLink: {
-      name: "Synergy Connect",
-      link: "https://synergyconnect-front.onrender.com/",
+      name: "Synergy Connect Trailer",
+      link: "https://www.youtube.com/watch?v=9Va7-mlmslE",
     },
     Images: [synergy1, synergy2, synergy3, synergy2],
   },
   {
     id: 2,
-    title: "Synergy Connect",
-    role: "Example",
-    shortDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    title: "Game World",
+    role: "Fullstack Developer",
+    shortDesc: "E-commerce website focused on selling games",
     detailDesc:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     RouteLink: {
-      name: "Synergy Connect",
-      link: "https://synergyconnect-front.onrender.com/",
+      name: "Deployed Website",
+      link: "https://game-world-qei9.onrender.com/",
     },
     Images: [synergy1, synergy2, synergy3, synergy2],
   },
   {
     id: 3,
-    title: "Synergy Connect",
-    role: "Example",
-    shortDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    title: "Portfolio Website",
+    role: "Front-end Devoloper",
+    shortDesc: "My Portfolio Website",
     detailDesc:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     RouteLink: {
-      name: "Synergy Connect",
+      name: "Portfolio Website",
       link: "https://synergyconnect-front.onrender.com/",
+    },
+    Images: [synergy1, synergy2, synergy3, synergy2],
+  },
+  {
+    id: 4,
+    title: "Campus/Athlete Directory",
+    role: "Fullstack Developer",
+    shortDesc: "Web platform allowing management of students & campuses",
+    detailDesc:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    RouteLink: {
+      name: "Campus/Athlete Directory",
+      link: "https://github.com/Obamg3017/2303-FSA-ET-WEB-FT-SF-JPFP",
     },
     Images: [synergy1, synergy2, synergy3, synergy2],
   },
