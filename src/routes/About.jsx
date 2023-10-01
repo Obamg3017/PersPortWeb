@@ -1,11 +1,11 @@
 import React from "react";
-import synergy1 from "../assets/synergy1.jpeg";
+import example1 from "../assets/example1.jpeg";
 const About = () => {
-  const Images2 = [synergy1, synergy1, synergy1, synergy1];
+  const Images2 = [example1, example1, example1, example1];
   return (
     <div className="border-[#fcebd6] border-y-2 border-solid  ">
       <div className="p-4 flex flex-col md:p-12  md:flex-row items-center justify-center">
-        <div className="text-[#fcebd6] p-4 md:p-12 flex-1">
+        <div className="text-[#fcebd6] p-4 md:p-12 flex-[.9]">
           <div>
             <h2 className="text-2xl sm:text-5xl mb-4 font-bold underline">
               About Me
@@ -35,8 +35,8 @@ const About = () => {
         <div className="flex-1 p-4 md:p-12">
           <img
             className="w-full rounded-md md:rounded-3xl object-cover"
-            src={synergy1}
-            alt="synergy1"
+            src={example1}
+            alt="example1"
           />
         </div>
       </div>

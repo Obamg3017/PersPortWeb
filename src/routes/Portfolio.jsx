@@ -6,10 +6,10 @@ import PortfolioData from "../data/PortfolioData";
 
 const Portfolio = () => {
   return (
-    <div className="p-12">
+    <div className="p-16">
       <div className="w-full flex flex-col items-center justify-center">
         <h1 className="text-5xl text-[#fcebd6] font-semibold mb-4">
-          Projects 👨🏾‍💻
+          Projects
         </h1>
         <GiLaptop
           size={60}
@@ -21,14 +21,14 @@ const Portfolio = () => {
           className="text-[#fcebd6] space-x-2"
         />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-10 mt-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2  gap-9 mt-12">
           {/* Work 1 */}
           {PortfolioData.map((singleData, i) => (
             <div key={i} className="rounded overflow-hidden group relative">
               <img
                 src={singleData.Images[0]}
                 alt={singleData.title}
-                className="w-full rounded transform transition-transform duration-500 hover:scale-110"
+                className="w-full h-full object-cover rounded transform transition-transform duration-500 hover:scale-110"
               />
               <div className="w-full h-0 bg-gradient-to-b from-[rgb(0,0,0,0.7)] to-black-600 rounded absolute left-0 bottom-[-20%] overflow-hidden transition-height duration-500 group-hover:h-full group-hover:bottom-0 flex items-center justify-center flex-col p-4 text-center">
                 <h2 className="font-semibold text-[#fcebd6] text-xl mb-4">

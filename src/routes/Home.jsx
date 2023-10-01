@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div className="border-[#fcebd6] border-y-2 border-solid ">
+    <div className="border-[#fcebd6] border-y-2 border-solid">
       <div className="text-[#fcebd6] flex justify-center items-center flex-col h-full my-52 ">
         <div className="flex justify-center items-center flex-col w-[48%] max-w-xxl">
           <h2 className="text-2xl sm:text-5xl font-bold">
@@ -14,7 +14,7 @@ const Home = () => {
           <br></br>
           <p className="text-lg sm:text-lg text-center">
             I am a firm believer in having a solution base approach in almost
-            everything that I do-As a senior underwriter for the past ten years,
+            everything that I do-as a senior underwriter for the past ten years,
             gathering information, evaluating risks, making decisions, and
             generating policies base on those factors, eventually led to
             policyholders being affected by the underwriting process-in turn

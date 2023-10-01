@@ -25,8 +25,12 @@ const SinglePortProject = () => {
           <p className="text-lg sm:text-xl ">{filteredItem?.role}</p>
         </div>
         <div className="my-5">
-          <h3 className="text-xl sm:text-3xl font-bold my-4 ">Overview:</h3>
-          <p className="text-lg sm:text-xl italic ">{filteredItem?.detailDesc}</p>
+          <h3 className="text-xl sm:text-3xl font-bold my-4 ">
+            Overview:
+          </h3>
+          <p className="text-lg sm:text-lg italic ">
+            {filteredItem?.detailDesc}
+          </p>
         </div>{" "}
         <div>
           <h3 className="text-xl sm:text-3xl font-bold my-4 ">Link:</h3>
@@ -40,11 +44,11 @@ const SinglePortProject = () => {
           </a>
         </div>
       </div>
-      <div className="p-4 flex-1 grid grid-cols-2 gap-4">
+      <div className="p-2 flex-[2.5] grid grid-cols-2 gap-2">
         {filteredItem?.Images?.map((singleImage, i) => (
           <img
             key={i}
-            className="w-full rounded-sm h-32 sm:h-80 object-cover"
+            className="w-full rounded-3xl h-32 sm:h-80 object-fill"
             src={singleImage}
             alt={singleImage}
           />
