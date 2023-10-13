@@ -9,6 +9,10 @@ import gameworld4 from "../assets/gameworld/gameworld4.png";
 import campusdirectory1 from "../assets/campusdirectory/campusdirectory1.png";
 import campusdirectory2 from "../assets/campusdirectory/campusdirectory2.png";
 import campusdirectory3 from "../assets/campusdirectory/campusdirectory3.png";
+import portfolio1 from "../assets/portfolio/portfolio1.png"
+import portfolio2 from "../assets/portfolio/portfolio2.png";
+import portfolio3 from "../assets/portfolio/portfolio3.png";
+import portfolio4 from "../assets/portfolio/portfolio4.png";
 import campusdirectory4 from "../assets/campusdirectory/campusdirectory4.png";
 import example1 from "../assets/example1.jpeg"
 import example2 from "../assets/example2.jpeg";
@@ -20,7 +24,7 @@ const PortfolioData = [
     role: "Fullstack Developer",
     shortDesc: "Centralized collaborative website.",
     detailDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Synergy Connect is a versatile collaboration tool offering users a centralized platform to communicate with friends, family, and colleagues. It enables diverse communication methods, chat rooms for shared interests, public/private chatrooms, video conferences, bi-directional whiteboards, and calendar events. Users can personalize their experience by adding friends, enhancing productivity for their organization or group. Created with a team of 6 using React, Express, Node.js, Redux, Tailwind CSS, and API's.",
     RouteLink: {
       name: "Synergy Connect Trailer",
       link: "https://www.youtube.com/watch?v=9Va7-mlmslE",
@@ -33,7 +37,7 @@ const PortfolioData = [
     role: "Fullstack Developer",
     shortDesc: "E-commerce website focused on selling games",
     detailDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "GameWorld is your go-to e-commerce platform, offering a curated selection of RPG, sports, action, and fantasy games. Easily browse and choose your favorite games by genre, add them to your cart, and make secure purchases. Enjoy hassle-free shopping with options to delete items and edit quantities, ensuring a seamless experience tailored to your gaming preferences.",
     RouteLink: {
       name: "Deployed Website",
       link: "https://game-world-qei9.onrender.com/",
@@ -46,22 +50,22 @@ const PortfolioData = [
     role: "Front-end Devoloper",
     shortDesc: "My Portfolio Website",
     detailDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Welcome to my personal website portfolio, where my story unfolds. I am a dedicated professional with a passion for coding and creative exploration. Here, you'll delve into my professional journey, exploring a diverse array of projects in my portfolio section. Beyond coding, the About Me tab offers a glimpse into my interests and hobbies, painting a holistic picture of who I am. This project was created using React, React Router, Vite, and Tailwind CSS. Join me in exploring my website to discover my work, my passions, and the essence of who I am.",
     RouteLink: {
       name: "Portfolio Website",
       link: "https://synergyconnect-front.onrender.com/",
     },
-    Images: [example1, example2, example3, example1],
+    Images: [portfolio1, portfolio2, portfolio3, portfolio4],
   },
   {
     id: 4,
-    title: "Campus/Athlete Directory",
+    title: "Campus/Student Directory",
     role: "Fullstack Developer",
     shortDesc: "Web platform allowing management of students & campuses",
     detailDesc:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "As the CTO of a campus and enrollment management company, I spearheaded the development of a RESTful web platform. This innovative system allows seamless management of students (represented as NBA players) and campuses (analogous to NBA arenas). This project focused on creating a user-friendly campus directory, utilizing a technology stack comprising Node.js, Express, JavaScript, React, and Redux. The platform facilitates smooth interactions between students and campuses, offering comprehensive insights into resources and individuals.",
     RouteLink: {
-      name: "Campus/Athlete Directory",
+      name: "Campus/Student Directory",
       link: "https://github.com/Obamg3017/2303-FSA-ET-WEB-FT-SF-JPFP",
     },
     Images: [

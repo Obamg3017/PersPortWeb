@@ -22,13 +22,11 @@ const SinglePortProject = () => {
         </h2>
         <div>
           <h3 className="text-xl sm:text-3xl font-bold my-4 ">Role:</h3>
-          <p className="text-lg sm:text-xl ">{filteredItem?.role}</p>
+          <p className="text-lg sm:text-lg font-extrabold ">{filteredItem?.role}</p>
         </div>
         <div className="my-5">
-          <h3 className="text-xl sm:text-3xl font-bold my-4 ">
-            Overview:
-          </h3>
-          <p className="text-lg sm:text-lg italic ">
+          <h3 className="text-xl sm:text-3xl font-bold my-4 ">Overview:</h3>
+          <p className="text-lg sm:text-lg italic font-semibold">
             {filteredItem?.detailDesc}
           </p>
         </div>{" "}
@@ -38,13 +36,13 @@ const SinglePortProject = () => {
             href={filteredItem?.RouteLink?.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-lg sm:text-2xl text-yellow-600 "
+            className="text-lg sm:text-2xl text-yellow-600 font-semibold "
           >
             {filteredItem?.RouteLink?.name}
           </a>
         </div>
       </div>
-      <div className="p-2 flex-[2.5] grid grid-cols-2 gap-2">
+      <div className="p-2 flex-[1.5] grid grid-cols-2 gap-2">
         {filteredItem?.Images?.map((singleImage, i) => (
           <img
             key={i}

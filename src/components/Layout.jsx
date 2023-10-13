@@ -6,11 +6,13 @@ import Header from "./Header";
 const Layout = () => {
   return (
     <div className="min-h-screen bg-primary flex flex-col">
-      <Header />
+      <div className="border-[#fcebd6] border-b-2 border-solid">
+        <Header />
+      </div>
       <main className="w-full">
         <Outlet />
       </main>
-      <div className="mt-auto">
+      <div className="mt-auto border-[#fcebd6] border-t-2 border-solid">
         <Footer />
       </div>
     </div>
