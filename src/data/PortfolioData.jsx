@@ -14,9 +14,6 @@ import portfolio2 from "../assets/portfolio/portfolio2.png";
 import portfolio3 from "../assets/portfolio/portfolio3.png";
 import portfolio4 from "../assets/portfolio/portfolio4.png";
 import campusdirectory4 from "../assets/campusdirectory/campusdirectory4.png";
-import example1 from "../assets/example1.jpeg"
-import example2 from "../assets/example2.jpeg";
-import example3 from "../assets/example3.jpeg";
 const PortfolioData = [
   {
     id: 1,

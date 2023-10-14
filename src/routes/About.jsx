@@ -14,8 +14,8 @@ const About = () => {
       <div className="p-4 flex flex-col md:p-12  md:flex-row items-center justify-center">
         <div className="text-[#fcebd6] p-4 md:p-12 flex-[.9]">
           <div>
-            <h2 className="text-2xl sm:text-5xl mb-4 font-bold underline">
-              About Me
+            <h2 className="text-2xl sm:text-5xl mb-4 font-bold ">
+              About Me 
             </h2>
 
             <p className="text-lg sm:text-2xl italic ">
@@ -49,8 +49,8 @@ const About = () => {
       <div className="p-4 flex flex-col md:p-12 md:flex-row-reverse items-center justify-center">
         <div className="text-[#fcebd6] p-4 md:p-12 flex-1">
           <div>
-            <h2 className="text-2xl mb-4 sm:text-5xl font-bold underline">
-              Other Than Coding
+            <h2 className="text-2xl mb-4 sm:text-5xl font-bold ">
+              Other Than Coding 🏀 🏈 ⚾ ⚽ 🏒 ⛳ 
             </h2>
 
             <p className="text-lg sm:text-2xl italic ">
@@ -80,7 +80,6 @@ const About = () => {
               >
                 Linkedin.
               </a>
-                
             </p>
           </div>
         </div>
