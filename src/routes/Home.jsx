@@ -8,7 +8,7 @@ const Home = () => {
           <h2 className="text-2xl sm:text-5xl font-bold my-6">
             Olorunfemi Bamgbose
           </h2>
-          <h3 className="text-xl sm:text-3xl font-bold my-7 ">
+          <h3 className="text-xl sm:text-3xl font-bold my-7 text-center ">
             Fullstack Developer + Senior Underwriter
           </h3>
           

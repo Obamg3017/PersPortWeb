@@ -14,11 +14,11 @@ const About = () => {
       <div className="p-4 flex flex-col md:p-12  md:flex-row items-center justify-center">
         <div className="text-[#fcebd6] p-4 md:p-12 flex-[.9]">
           <div>
-            <h2 className="text-2xl sm:text-5xl mb-4 font-bold ">
-              About Me 
+            <h2 className="text-2xl text-center sm:text-5xl sm:text-left mb-4 font-bold ">
+              About Me
             </h2>
 
-            <p className="text-lg sm:text-2xl italic ">
+            <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
               Hello! My name is Olorunfemi Bamgbose, but you can call me O or
               Femi 😎! I am based in New York City and am a full-stack software
               developer. I’ve spent the last two years studying Javascript in
@@ -49,11 +49,11 @@ const About = () => {
       <div className="p-4 flex flex-col md:p-12 md:flex-row-reverse items-center justify-center">
         <div className="text-[#fcebd6] p-4 md:p-12 flex-1">
           <div>
-            <h2 className="text-2xl mb-4 sm:text-5xl font-bold ">
-              Other Than Coding 🏀 🏈 ⚾ ⚽ 🏒 ⛳ 
+            <h2 className="text-2xl text-center mb-4 sm:text-5xl sm:text-left font-bold ">
+              Other Than Coding 🏀 🏈 ⚾ ⚽ 🏒 ⛳
             </h2>
 
-            <p className="text-lg sm:text-2xl italic ">
+            <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
               Outside of my passion for coding and software development, I am a
               huge sports enthusiast and a big fan of almost every sport like
               basketball, football, soccer, baseball, hockey, track and field,
