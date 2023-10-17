@@ -10,13 +10,17 @@ const Footer = () => {
         </div>
         <div className="flex justify-center items-center gap-4 mt-2">
           <a
-            href="http://linkedin.com"
+            href="http://www.linkedin.com/in/olorunfemi-bamgbose"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaLinkedin size={24} />
           </a>
-          <a href="http://github.com" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/Obamg3017"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FaGithub size={24} />
           </a>
           <a href="OlorunfemiBamgbose-resume.pdf" download>

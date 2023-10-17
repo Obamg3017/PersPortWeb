@@ -73,7 +73,7 @@ const About = () => {
               especially riding my bike around all of NYC’s beautiful bike
               paths! I would love to connect, you can find me on
               <a
-                href="http://linkedin.com"
+                href="http://www.linkedin.com/in/olorunfemi-bamgbose"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#ca8a04] mx-2 font-bold"
