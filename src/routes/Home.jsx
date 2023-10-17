@@ -29,7 +29,7 @@ const Home = () => {
             to know me better, please feel free to explore my
             <a
               href="./about"
-              target="_blank"
+              // target="_blank"
               rel="noopener noreferrer"
               className="text-yellow-600 mx-2"
             >
