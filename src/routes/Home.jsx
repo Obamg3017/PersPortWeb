@@ -28,9 +28,9 @@ const Home = () => {
             align with my interests and leverage my passions. If you want to get
             to know me better, please feel free to explore my
             <a
-              href="/about"
+              href="./about"
               // target="_blank"
-              rel="noopener noreferrer"
+              // rel="noopener noreferrer"
               className="text-yellow-600 mx-2"
             >
               about

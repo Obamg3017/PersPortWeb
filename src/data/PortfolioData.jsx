@@ -58,7 +58,7 @@ const PortfolioData = [
     id: 4,
     title: "Campus/Student Directory",
     role: "Fullstack Developer",
-    shortDesc: "Web platform allowing management of students & campuses",
+    shortDesc: "Management of students & campuses",
     detailDesc:
       "As the CTO of a campus and enrollment management company, I spearheaded the development of a RESTful web platform. This innovative system allows seamless management of students (represented as NBA players) and campuses (analogous to NBA arenas). This project focused on creating a user-friendly campus directory, utilizing a technology stack comprising Node.js, Express, JavaScript, React, and Redux. The platform facilitates smooth interactions between students and campuses, offering comprehensive insights into resources and individuals.",
     RouteLink: {
