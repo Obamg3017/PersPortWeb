@@ -6,14 +6,14 @@ const Home = () => {
     <div className="min-h-[80vh] flex items-center justify-center  my-auto">
       <div className="text-[#fcebd6] flex justify-center items-center flex-col h-full scroll-mb-20">
         <div className="flex justify-center items-center flex-col w-[48%] max-w-xxl ">
-          <h2 className="text-2xl items-center justify-center sm:text-5xl font-bold my-6">
+          <h2 className="text-2xl sm:text-5xl font-bold my-6 text-center">
             Olorunfemi Bamgbose
           </h2>
           <h3 className="text-xl sm:text-2xl font-bold my-7 text-center ">
             Fullstack Developer + Senior Underwriter
           </h3>
           
-          <p className="text-sm sm:text-lg font-thin text-center my-11">
+          <p className="text-xs font-semibold sm:text-lg text-center my-11">
             I am a firm believer in having a solution base approach in almost
             everything that I do-as a senior underwriter for the past ten years,
             gathering information, evaluating risks, making decisions, and
