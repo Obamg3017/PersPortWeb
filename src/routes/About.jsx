@@ -7,6 +7,7 @@ import example7 from "../assets/example7.jpg";
 import example8 from "../assets/example8.jpg";
 import example9 from "../assets/example9.jpg";
 import example10 from "../assets/example10.jpg";
+
 const About = () => {
   const Images2 = [example5, example6, example7, example8, example9, example10];
   return (

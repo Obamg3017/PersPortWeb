@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -27,14 +28,17 @@ const Home = () => {
             languages, tools, processes, I am avidly seeking new challenges to
             align with my interests and leverage my passions. If you want to get
             to know me better, please feel free to explore my
-            <a
+            {/* <a
               href="./about"
               // target="_blank"
               // rel="noopener noreferrer"
               className="text-yellow-600 mx-2"
             >
               about
-            </a>
+            </a> */}
+            <Link to="/about" className="text-yellow-600 mx-2">
+              about
+            </Link>
             page!
           </p>
         </div>
