@@ -65,7 +65,7 @@ const About = () => {
               discipline, patience, the value of teamwork, and resilency-plus,
               it is also a wonderful way of knocking out some good cardio!{" "}
               <br></br>
-              <br></br>I also enjoying traveling the world and experiencing
+              <br></br>I also enjoy traveling the world and experiencing
               different cultures and everything that comes with it (especially
               the food 😁). Speaking of food, as someone who loves to eat, I am
               also health conscious as well. Finding the time to include

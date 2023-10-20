@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div className="min-h-[80vh] flex items-center justify-center  my-auto">
+    <div className="min-h-[80vh] flex items-center justify-center">
       <div className="text-[#fcebd6] flex justify-center items-center flex-col h-full scroll-mb-20">
         <div className=" w-[75%] max-w-xxl sm: flex justify-center items-center flex-col  ">
-          <h2 className="text-3xl sm:text-5xl font-bold my-6 text-center">
+          <h2 className="text-3xl sm:text-5xl font-bold my-12 text-center">
             Olorunfemi Bamgbose
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold my-7 text-center ">
