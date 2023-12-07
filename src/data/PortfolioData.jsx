@@ -6,14 +6,14 @@ import gameworld1 from "../assets/gameworld/gameworld1.png";
 import gameworld2 from "../assets/gameworld/gameworld2.png";
 import gameworld3 from "../assets/gameworld/gameworld3.png";
 import gameworld4 from "../assets/gameworld/gameworld4.png";
-import campusdirectory1 from "../assets/campusdirectory/campusdirectory1.png";
-import campusdirectory2 from "../assets/campusdirectory/campusdirectory2.png";
-import campusdirectory3 from "../assets/campusdirectory/campusdirectory3.png";
+// import campusdirectory1 from "../assets/campusdirectory/campusdirectory1.png";
+// import campusdirectory2 from "../assets/campusdirectory/campusdirectory2.png";
+// import campusdirectory3 from "../assets/campusdirectory/campusdirectory3.png";
 import portfolio1 from "../assets/portfolio/portfolio1.png"
 import portfolio2 from "../assets/portfolio/portfolio2.png";
 import portfolio3 from "../assets/portfolio/portfolio3.png";
 import portfolio4 from "../assets/portfolio/portfolio4.png";
-import campusdirectory4 from "../assets/campusdirectory/campusdirectory4.png";
+// import campusdirectory4 from "../assets/campusdirectory/campusdirectory4.png";
 const PortfolioData = [
   {
     id: 1,
@@ -54,23 +54,23 @@ const PortfolioData = [
     },
     Images: [portfolio1, portfolio2, portfolio3, portfolio4],
   },
-  {
-    id: 4,
-    title: "Campus/Student Directory",
-    role: "Fullstack Developer",
-    shortDesc: "Management of students & campuses",
-    detailDesc:
-      "As the CTO of a campus and enrollment management company, I spearheaded the development of a RESTful web platform. This innovative system allows seamless management of students (represented as NBA players) and campuses (analogous to NBA arenas). This project focused on creating a user-friendly campus directory, utilizing a technology stack comprising Node.js, Express, JavaScript, React, and Redux. The platform facilitates smooth interactions between students and campuses, offering comprehensive insights into resources and individuals.",
-    RouteLink: {
-      name: "Campus/Student Directory",
-      link: "https://github.com/Obamg3017/2303-FSA-ET-WEB-FT-SF-JPFP",
-    },
-    Images: [
-      campusdirectory1,
-      campusdirectory2,
-      campusdirectory3,
-      campusdirectory4,
-    ],
-  },
+  // {
+  //   id: 4,
+  //   title: "Campus/Student Directory",
+  //   role: "Fullstack Developer",
+  //   shortDesc: "Management of students & campuses",
+  //   detailDesc:
+  //     "As the CTO of a campus and enrollment management company, I spearheaded the development of a RESTful web platform. This innovative system allows seamless management of students (represented as NBA players) and campuses (analogous to NBA arenas). This project focused on creating a user-friendly campus directory, utilizing a technology stack comprising Node.js, Express, JavaScript, React, and Redux. The platform facilitates smooth interactions between students and campuses, offering comprehensive insights into resources and individuals.",
+  //   RouteLink: {
+  //     name: "Campus/Student Directory",
+  //     link: "https://github.com/Obamg3017/2303-FSA-ET-WEB-FT-SF-JPFP",
+  //   },
+  //   Images: [
+  //     campusdirectory1,
+  //     campusdirectory2,
+  //     campusdirectory3,
+  //     campusdirectory4,
+  //   ],
+  // },
 ];
 export default PortfolioData;

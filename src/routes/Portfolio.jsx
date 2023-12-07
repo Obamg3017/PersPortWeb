@@ -21,7 +21,7 @@ const Portfolio = () => {
           className="text-[#fcebd6] space-x-2"
         />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4  gap-9 mt-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-9 mt-12">
           {/* Work 1 */}
           {PortfolioData.map((singleData, i) => (
             <div key={i} className="rounded overflow-hidden group relative">
