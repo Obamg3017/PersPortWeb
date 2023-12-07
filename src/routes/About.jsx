@@ -21,8 +21,8 @@ const About = () => {
 
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
               Hello! My name is Olorunfemi Bamgbose, but you can call me O or
-              Femi 😎! I am based in New York City and am a full-stack software
-              developer. I’ve spent the last two years studying Javascript in
+              Femi 😎! I am based in New York City and am a Front-End Developer
+              and Underwriter. I’ve spent the last two years studying Javascript in
               depth and working on various projects. My skill set includes
               JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize,
               Next.js, Figma, TailwindCSS, HTML, CSS, and Git. <br></br>
