@@ -100,3 +100,12 @@ const About = () => {
 };
 
 export default About;
+
+<a
+  href="http://www.linkedin.com/in/olorunfemi-bamgbose"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-[#ca8a04] mx-2 font-bold"
+>
+  
+</a>;
