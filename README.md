@@ -1,4 +1,3 @@
-<h1>PersonalWebsitePorfolio<h1> 
 <h1>Welcome to my Personal Portfolio Website! Here you can discover more about who I am and my professional journey 😎! I build this website using Vite.js! I hope you guys enjoy it! </h1>
 <h2>Check it out!⬇⬇⬇</h2>
 <ul>
