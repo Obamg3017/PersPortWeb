@@ -1,4 +1,4 @@
-<h1>Welcome to my Personal Portfolio Website! Here you can discover more about who I am and my professional journey 😎!</h1> 
+<h1>Welcome and thank you for taking the time to visit my GitHub! Here, you can dive deeper into my portfolio project!😎</h1> 
 <h2>Check it out! Deployed Website!⬇⬇⬇</h2>
 <ul>
   <a
