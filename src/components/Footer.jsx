@@ -23,7 +23,7 @@ const Footer = () => {
           >
             <FaGithub size={24} />
           </a>
-          <a href="RESUME-Olorunfemi_.docx" download>
+          <a href="BAMGBOSE-RESUME-OFEM.pdf" download>
             <HiDocumentText size={24} />
           </a>
         </div>
