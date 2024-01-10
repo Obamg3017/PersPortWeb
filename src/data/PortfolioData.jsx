@@ -37,7 +37,7 @@ const PortfolioData = [
       "GameWorld is your go-to e-commerce platform, offering a curated selection of RPG, sports, action, and fantasy games. Easily browse and choose your favorite games by genre, add them to your cart, and make secure purchases. Enjoy hassle-free shopping with options to delete items and edit quantities, ensuring a seamless experience tailored to your gaming preferences.",
     RouteLink: {
       name: "Deployed Website",
-      link: "https://game-world-qei9.onrender.com/",
+      link: "https://gameworld.world/",
     },
     Images: [gameworld1, gameworld2, gameworld3, gameworld4],
   },
