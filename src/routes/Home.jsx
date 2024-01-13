@@ -10,7 +10,7 @@ const Home = () => {
             Olorunfemi Bamgbose
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold my-7 text-center ">
-            Front-End Developer + Underwriter
+            Software Engineer With A Strong Emphasis on Front-End Development
           </h3>
 
           <p className="text-xl sm:text-2xl text-center my-11">
