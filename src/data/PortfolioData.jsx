@@ -49,7 +49,7 @@ const PortfolioData = [
     detailDesc:
       "Welcome to my personal website portfolio, where my story unfolds. I am a dedicated professional with a passion for coding and creative exploration. Here, you'll delve into my professional journey, exploring a diverse array of projects in my portfolio section. Beyond coding, the About Me tab offers a glimpse into my interests and hobbies, painting a holistic picture of who I am. This project was created using React, React Router, Vite, and Tailwind CSS. Join me in exploring my website to discover my work, my passions, and the essence of who I am.",
     RouteLink: {
-      name: "Portfolio Website",
+      name: "My Favorite Project!!",
       link: "https://synergyconnect-front.onrender.com/",
     },
     Images: [portfolio1, portfolio2, portfolio3, portfolio4],
