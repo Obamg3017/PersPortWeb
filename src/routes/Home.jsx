@@ -10,14 +10,13 @@ const Home = () => {
             Olorunfemi Bamgbose
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold my-7 text-center ">
-            Full Stack Software Engineer With A Strong Emphasis on Front-End
-            Development
+            Software Engineer — Underwriter
           </h3>
           <p className="text-xl sm:text-2xl text-center my-11">
             My background involves assessing risks, quality control,
             decision-making, fraud management, and necessitating creative
             problem-solving. I approached challenges with a solution-oriented
-            mindset. Now, as a Software Engineer, my "solution-focused" hat
+            mindset. As a Software Engineer, my "solution-focused" hat
             stays on around the clock and I bring my expertise to crafting
             software solutions. Eager for new challenges, I combine
             adaptability, my never-ending curiosity, and my passion to create

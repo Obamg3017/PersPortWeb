@@ -28,7 +28,7 @@ const About = () => {
               Next.js, Figma, TailwindCSS, HTML, CSS, and Git. <br></br>
               <br></br>My passion for software engineering began several years
               ago when working cross-functionally as an underwriter, with the
-              engineering team-I would provide feedback on applications that
+              engineering team — I would provide feedback on applications that
               were used by the underwriting team. The feedback consists of
               user-experience, efficiency tips and everything you can possibly
               think of that would make life easier for underwriters to navigate
@@ -55,14 +55,13 @@ const About = () => {
             </h2>
 
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
-              Outside of my passion for coding and software development, I am a
-              huge sports enthusiast and a big fan of almost every sport like
+              I am a huge sports enthusiast and a big fan of almost every sport like
               basketball, football, soccer, baseball, hockey, track and field,
               golf, and many others. I do favor the sport of basketball because
-              I played it pretty much all of my life. Currently, I’m a part of a
+              I played it pretty much all of my life. Currently, I am a part of a
               basketball recreational league and continue to find time to play.
               At a young age, basektball taught me life lessons such as,
-              discipline, patience, the value of teamwork, and resilency-plus,
+              discipline, patience, the value of teamwork, and resilency — plus,
               it is also a wonderful way of knocking out some good cardio!{" "}
               <br></br>
               <br></br>I also enjoy traveling the world and experiencing
