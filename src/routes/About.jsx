@@ -35,7 +35,9 @@ const About = () => {
               through these applications/systems seamlessly. Seeing the
               engineering team work together, plan, design, and write code was
               something I found to be amazing! At that point, curiosity took
-              over and eventually my passion grew while learning how to code!
+              over and eventually my passion grew while learning how to code! Thereafter,
+              I pivoted into an IT support specialist role and later joined a BootCamp 
+              to become a Fullstack Software Engineer! 
             </p>
           </div>
         </div>
