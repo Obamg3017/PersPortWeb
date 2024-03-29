@@ -2,10 +2,10 @@ import synergy1 from "../assets/synergy/synergy1.png";
 import synergy2 from "../assets/synergy/synergy2.png";
 import synergy3 from "../assets/synergy/synergy3.png";
 import synergy4 from "../assets/synergy/synergy4.png";
-import gameworld1 from "../assets/gameworld/gameworld1.png";
-import gameworld2 from "../assets/gameworld/gameworld2.png";
-import gameworld3 from "../assets/gameworld/gameworld3.png";
-import gameworld4 from "../assets/gameworld/gameworld4.png";
+import aILearnLab1 from "../assets/aILearnLab/aILearnLab1.png";
+import aILearnLab2 from "../assets/aILearnLab/aILearnLab2.png";
+import aILearnLab3 from "../assets/aILearnLab/aILearnLab3.png";
+import aILearnLab4 from "../assets/aILearnLab/aILearnLab4.png";
 // import campusdirectory1 from "../assets/campusdirectory/campusdirectory1.png";
 // import campusdirectory2 from "../assets/campusdirectory/campusdirectory2.png";
 // import campusdirectory3 from "../assets/campusdirectory/campusdirectory3.png";
@@ -17,6 +17,19 @@ import portfolio4 from "../assets/portfolio/portfolio4.png";
 const PortfolioData = [
   {
     id: 1,
+    title: "Portfolio Website",
+    role: "Front-end Developer",
+    shortDesc: "My Portfolio Website",
+    detailDesc:
+      "Welcome to my personal website portfolio, where my story unfolds. I am a dedicated professional with a passion for coding and creative exploration. Here, you'll delve into my professional journey, exploring a diverse array of projects in my portfolio section. Beyond coding, the About Me tab offers a glimpse into my interests and hobbies, painting a holistic picture of who I am. This project was created using React, React Router, Vite, and Tailwind CSS. Join me in exploring my website to discover my work, my passions, and the essence of who I am.",
+    RouteLink: {
+      name: "My Favorite Project!!",
+      link: "https://synergyconnect-front.onrender.com/",
+    },
+    Images: [portfolio1, portfolio2, portfolio3, portfolio4],
+  },
+  {
+    id: 2,
     title: "Synergy Connect",
     role: "Fullstack Developer",
     shortDesc: "Centralized collaborative website.",
@@ -29,30 +42,17 @@ const PortfolioData = [
     Images: [synergy1, synergy2, synergy3, synergy4],
   },
   {
-    id: 2,
-    title: "Game World",
-    role: "Fullstack Developer",
-    shortDesc: "E-commerce website focused on selling games",
-    detailDesc:
-      "GameWorld is your go-to e-commerce platform, offering a curated selection of RPG, sports, action, and fantasy games. Easily browse and choose your favorite games by genre, add them to your cart, and make secure purchases. Enjoy hassle-free shopping with options to delete items and edit quantities, ensuring a seamless experience tailored to your gaming preferences.",
-    RouteLink: {
-      name: "Deployed Website",
-      link: "https://gameworld.world/",
-    },
-    Images: [gameworld1, gameworld2, gameworld3, gameworld4],
-  },
-  {
     id: 3,
-    title: "Portfolio Website",
-    role: "Front-end Devoloper",
-    shortDesc: "My Portfolio Website",
+    title: "AI LearnLab",
+    role: "Fullstack Developer",
+    shortDesc: "Website focused on directing attention towards AI",
     detailDesc:
-      "Welcome to my personal website portfolio, where my story unfolds. I am a dedicated professional with a passion for coding and creative exploration. Here, you'll delve into my professional journey, exploring a diverse array of projects in my portfolio section. Beyond coding, the About Me tab offers a glimpse into my interests and hobbies, painting a holistic picture of who I am. This project was created using React, React Router, Vite, and Tailwind CSS. Join me in exploring my website to discover my work, my passions, and the essence of who I am.",
+      "(Project still under construction), but here is some information about the project—AI LearnLab is your go-to platform to acclimate yourself with AI. It is a platform for beginner-friendly folks who would like to delve into the world of AI. The website is still a work in progress, but the goal is to offer a tailored experience for users to create goals and lessons in anything that they may want to search with AI.",
     RouteLink: {
-      name: "My Favorite Project!!",
-      link: "https://synergyconnect-front.onrender.com/",
+      name: "AILearnLab",
+      link: "https://github.com/deep-dive-devs/AILearnLab",
     },
-    Images: [portfolio1, portfolio2, portfolio3, portfolio4],
+    Images: [aILearnLab1, aILearnLab2, aILearnLab3, aILearnLab4],
   },
   // {
   //   id: 4,

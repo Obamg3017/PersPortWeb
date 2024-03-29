@@ -41,7 +41,7 @@ const Home = () => {
             src="skydiving.jpg"
             alt="skydivingpicture"
           />
-          <h1 className="text-xl sm:text-xl text-center font-bold">This picture serves as a reminder to always take risks!</h1>
+          <h1 className="text-xl sm:text-xl text-center font-bold">This picture serves as a reminder that in life one should always take risks!</h1>
         </div>
       </div>
     </div>
