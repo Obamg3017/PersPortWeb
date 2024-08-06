@@ -20,24 +20,25 @@ const About = () => {
             </h2>
 
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
-              Hello! My name is Olorunfemi Bamgbose, but you can call me O or
-              Femi 😎! I am based in New York City and am a Front-End Developer
-              and Underwriter. I’ve spent the last two years studying Javascript in
-              depth and working on various projects. My skill set includes
-              JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize,
-              Next.js, Figma, TailwindCSS, HTML, CSS, and Git. <br></br>
-              <br></br>My passion for software engineering began several years
-              ago when working cross-functionally as an underwriter, with the
-              engineering team — I would provide feedback on applications that
-              were used by the underwriting team. The feedback consists of
-              user-experience, efficiency tips and everything you can possibly
-              think of that would make life easier for underwriters to navigate
-              through these applications/systems seamlessly. Seeing the
-              engineering team work together, plan, design, and write code was
-              something I found to be amazing! At that point, curiosity took
-              over and eventually my passion grew while learning how to code! Thereafter,
-              I pivoted into an IT support specialist role and later joined a BootCamp 
-              to become a Fullstack Software Engineer! 
+              Hello, Welcome! I'm Femi and I am based in New York City. My tech
+              stack includes JavaScript, React, Express, PostgreSQL, SQL,
+              MongoDB, Python, EJS, TailwindCSS, and Node.js. My passion for
+              technology began in high school, where I studied programming and
+              desktop publishing. <br></br>
+              <br></br>My time working as an underwriter was rewarding because I
+              learned so much about insurance, but one of the best aspects was
+              the opportunity to collaborate with the engineering team. I
+              provided feedback on applications used by the underwriting team,
+              focusing on improving user experience, efficiency, and overall
+              usability. Witnessing the engineering team plan, design, and code
+              was inspiring and reignited my passion for technology. I was
+              really impressed by their ability to solve complex problems. This
+              experience sparked my curiosity and motivated me to learn how to
+              code. Driven by this renewed passion, I transitioned into the tech
+              space as an IT support specialist and later joined a Bootcamp to
+              become a Software Engineer. My journey reflects my dedication to
+              continuous learning and my commitment to utilize technology to
+              create impactful solutions.
             </p>
           </div>
         </div>
@@ -57,23 +58,22 @@ const About = () => {
             </h2>
 
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
-              I am a huge sports enthusiast and a big fan of almost every sport like
-              basketball, football, soccer, baseball, hockey, track and field,
-              golf, and many others. I do favor the sport of basketball because
-              I played it pretty much all of my life. Currently, I am a part of a
-              basketball recreational league and continue to find time to play.
-              At a young age, basektball taught me life lessons such as,
-              discipline, patience, the value of teamwork, and resilency — plus,
-              it is also a wonderful way of knocking out some good cardio!{" "}
-              <br></br>
+              I am a huge sports enthusiast and a big fan of almost every sport
+              like basketball, football, soccer, baseball, hockey, track and
+              field, golf, and many others. I do favor the sport of basketball
+              because I played it pretty much all of my life. At a young age,
+              basektball taught me life lessons such as, discipline, patience,
+              the value of teamwork, and resilency — plus, it is also a
+              wonderful way of knocking out some good cardio! <br></br>
               <br></br>I also enjoy traveling the world and experiencing
               different cultures and everything that comes with it (especially
               the food 😁). Speaking of food, as someone who loves to eat, I am
               also health conscious as well. Finding the time to include
               physical activities into my daily routine provides much balance. I
-              also enjoy going for runs, hiking, going to the gym, and
-              especially riding my bike around all of NYC’s beautiful bike
-              paths! I would love to connect, you can find me on
+              enjoy going for runs, hiking, going to the gym, and especially
+              riding my bike around the city! 
+              {/* I would love to connect, you can
+              find me on
               <a
                 href="http://www.linkedin.com/in/olorunfemi-bamgbose"
                 target="_blank"
@@ -81,7 +81,7 @@ const About = () => {
                 className="text-[#ca8a04] mx-2 font-bold"
               >
                 Linkedin.
-              </a>
+              </a> */}
             </p>
           </div>
         </div>
@@ -107,6 +107,4 @@ export default About;
   target="_blank"
   rel="noopener noreferrer"
   className="text-[#ca8a04] mx-2 font-bold"
->
-  
-</a>;
+></a>;

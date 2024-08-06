@@ -10,7 +10,7 @@ const Home = () => {
             Olorunfemi Bamgbose
           </h2>
           <h3 className="text-2xl sm:text-3xl font-bold my-7 text-center ">
-            Software Engineer — Front-end development
+            Software Engineer
           </h3>
           <p className="text-xl sm:text-2xl text-center my-11">
             My background involves assessing risks, quality control,
