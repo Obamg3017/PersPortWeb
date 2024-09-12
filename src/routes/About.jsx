@@ -22,7 +22,7 @@ const About = () => {
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
               Hello, Welcome! I'm Femi and I am based in New York City. My tech
               stack includes JavaScript, React, Express, PostgreSQL, SQL,
-              MongoDB, Python, EJS, TailwindCSS, and Node.js. My passion for
+              MongoDB, Python, EJS, TailwindCSS, Django, and Node.js. My passion for
               technology began in high school, where I studied programming and
               desktop publishing. <br></br>
               <br></br>My time working as an underwriter was rewarding because I
