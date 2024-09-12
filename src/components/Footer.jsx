@@ -9,13 +9,13 @@ const Footer = () => {
           Olorunfemi Bamgbose
         </div>
         <div className="flex justify-center items-center gap-4 mt-2">
-          {/* <a
+          <a
             href="http://www.linkedin.com/in/olorunfemi-bamgbose"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaLinkedin size={24} />
-          </a> */}
+          </a>
           <a
             href="https://github.com/Obamg3017"
             target="_blank"
