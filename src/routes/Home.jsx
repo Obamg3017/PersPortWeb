@@ -13,35 +13,22 @@ const Home = () => {
             Software Engineer
           </h3>
           <p className="text-xl sm:text-2xl text-center my-11">
-            My background involves assessing risks, quality control,
-            decision-making, fraud management, and necessitating creative
-            problem-solving. I approached challenges with a solution-oriented
-            mindset. As a Software Engineer, my "solution-focused" hat
-            stays on around the clock and I bring my expertise to crafting
-            software solutions. Eager for new challenges, I combine
-            adaptability, my never-ending curiosity, and my passion to create
-            impactful outcomes. If you want to get to know me better, please
-            feel free to explore my
-            {/* <a
-              href="./about"
-              // target="_blank"
-              // rel="noopener noreferrer"
-              className="text-yellow-600 mx-2"
-            >
-              about
-            </a> */}
+            My background encompasses risk assessment, quality control,
+            decision-making, fraud management, and creative problem-solving. I
+            consistently approached challenges with a solution-oriented mindset,
+            and as a Software Engineer, my “solution-focused” perspective
+            remains active around the clock. I bring this expertise to crafting
+            innovative and effective software solutions. Fueled by a deep
+            curiosity and a drive to learn and grow, I am constantly seeking new
+            knowledge and ways to push my skills further. Adaptability and
+            passion for impactful outcomes shape my approach to every project,
+            and I am excited to tackle any challenge that comes my way. If you’d
+            like to get to know me better, please feel free to explore my
             <Link to="/about" className="text-yellow-600 mx-2">
               ABOUT
             </Link>
             page!
           </p>
-
-          <img
-            className="md:w-80 md:h-60"
-            src="skydiving.jpg"
-            alt="skydivingpicture"
-          />
-          <h1 className="text-xl sm:text-xl text-center font-bold">This picture serves as a reminder that in life one should always take risks!</h1>
         </div>
       </div>
     </div>

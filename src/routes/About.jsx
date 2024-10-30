@@ -1,15 +1,14 @@
 import React from "react";
-import example1 from "../assets/example1.jpeg";
+import example1 from "../assets/example1.png";
+import example2 from "../assets/example2.jpg";
+import example3 from "../assets/example3.jpg";
 import example4 from "../assets/example4.jpg";
 import example5 from "../assets/example5.jpg";
 import example6 from "../assets/example6.jpg";
 import example7 from "../assets/example7.jpg";
-import example8 from "../assets/example8.jpg";
-import example9 from "../assets/example9.jpg";
-import example10 from "../assets/example10.jpg";
 
 const About = () => {
-  const Images2 = [example5, example6, example7, example8, example9, example10];
+  const Images2 = [example2, example5, example3, example4, example6, example7];
   return (
     <div className=" ">
       <div className="p-4 flex flex-col md:p-12  md:flex-row items-center justify-center">
@@ -22,9 +21,9 @@ const About = () => {
             <p className="text-lg text-center sm:text-2xl sm:text-left italic ">
               Hello, Welcome! I'm Femi and I am based in New York City. My tech
               stack includes JavaScript, React, Express, PostgreSQL, SQL,
-              MongoDB, Python, EJS, TailwindCSS, Django, and Node.js. My passion for
-              technology began in high school, where I studied programming and
-              desktop publishing. <br></br>
+              MongoDB, Python, EJS, TailwindCSS, Django, and Node.js. My passion
+              for technology began in high school, where I studied programming
+              and desktop publishing. <br></br>
               <br></br>My time working as an underwriter was rewarding because I
               learned so much about insurance, but one of the best aspects was
               the opportunity to collaborate with the engineering team. I
@@ -45,8 +44,8 @@ const About = () => {
         <div className="flex-1 p-4 md:p-12">
           <img
             className="w-full rounded-md md:rounded-3xl object-cover"
-            src={example4}
-            alt="example4"
+            src={example1}
+            alt="example1"
           />
         </div>
       </div>
@@ -71,8 +70,7 @@ const About = () => {
               also health conscious as well. Finding the time to include
               physical activities into my daily routine provides much balance. I
               enjoy going for runs, hiking, going to the gym, and especially
-              riding my bike around the city! 
-              {/* I would love to connect, you can
+              riding my bike around the city! I would love to connect, you can
               find me on
               <a
                 href="http://www.linkedin.com/in/olorunfemi-bamgbose"
@@ -81,7 +79,7 @@ const About = () => {
                 className="text-[#ca8a04] mx-2 font-bold"
               >
                 Linkedin.
-              </a> */}
+              </a>
             </p>
           </div>
         </div>
