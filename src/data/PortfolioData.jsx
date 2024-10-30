@@ -6,10 +6,10 @@ import aILearnLab1 from "../assets/aILearnLab/aILearnLab1.png";
 import aILearnLab2 from "../assets/aILearnLab/aILearnLab2.png";
 import aILearnLab3 from "../assets/aILearnLab/aILearnLab3.png";
 import aILearnLab4 from "../assets/aILearnLab/aILearnLab4.png";
-import enrollMate1 from "../assets/enrollmate/enrollmate1.png";
-import enrollMate2 from "../assets/enrollmate/enrollmate2.png";
-import enrollMate3 from "../assets/enrollmate/enrollmate3.png";
-import enrollMate4 from "../assets/enrollmate/enrollmate4.png";
+import enrollMate1 from "../assets/enrollmate/enrollMate1.png";
+import enrollMate2 from "../assets/enrollmate/enrollMate2.png";
+import enrollMate3 from "../assets/enrollmate/enrollMate3.png";
+import enrollMate4 from "../assets/enrollmate/enrollMate4.png";
 import yardGems1 from "../assets/yardgems/yardGems1.png"
 import yardGems2 from "../assets/yardgems/yardGems2.png";
 import yardGems3 from "../assets/yardgems/yardGems3.png";
