@@ -71,7 +71,7 @@ const PortfolioData = [
       "AILearnLab is an innovative educational platform designed to simplify complex learning subjects into actionable steps. The application provides users with personalized learning paths and tracks their progress through interactive charts. Built using modern web technologies, AILearnLab leverages advanced tools to offer a seamless and engaging learning experience.",
     RouteLink: {
       name: "Deployed Website",
-      link: "https://ai-learn-kn4yzuz7o-femis-projects-0b4ffa2d.vercel.app/auth/login",
+      link: "https://ai-learn-lab.vercel.app/auth/login",
     },
     Images: [aILearnLab1, aILearnLab2, aILearnLab3, aILearnLab4],
   },
