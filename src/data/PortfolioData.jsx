@@ -58,7 +58,7 @@ const PortfolioData = [
       "Synergy Connect is a versatile collaboration tool offering users a centralized platform to communicate with friends, family, and colleagues. It enables diverse communication methods, chat rooms for shared interests, public/private chatrooms, video conferences, bi-directional whiteboards, and calendar events. Users can personalize their experience by adding friends, enhancing productivity for their organization or group. Created with a team of 6 using React, Express, Node.js, Redux, Tailwind CSS, and API's.",
     RouteLink: {
       name: "Deployed Website",
-      link: "https://www.youtube.com/watch?v=9Va7-mlmslE",
+      link: "https://synergy-connect-7d26260b2886.herokuapp.com/",
     },
     Images: [synergy1, synergy2, synergy3, synergy4],
   },
